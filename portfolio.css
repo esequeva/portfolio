@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+/* paleta de colores
+#1d0af7
+#3b1ff9
+#5833fb
+#7648fd
+#935cff
+#c194ff
+#ffc5ff
+*/ 
+
+html{
+    background-image: url(images/4.jpg);
+    opacity: .7;
+    cursor: url(images/5.jpg), auto;
+}
+
+body{
+    cursor: url(images/5.jpg), auto;
+}
+
+
+div.accordion-item{
+    background-color: #000037 ;
+    color: antiquewhite;
+    padding: .15%;
+    size: 2x;
+}
+
+button{
+    background-color: #c194ff
+    padding:lch(from color l c h)
+}
+
+.accordion-button{
+    background-color: ;
+    padding: 1%;
+}
